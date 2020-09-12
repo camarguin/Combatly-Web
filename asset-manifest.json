@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Combatly-Web/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Combatly-Web/static/js/main.1f7d43a8.chunk.js",
-    "main.js.map": "/Combatly-Web/static/js/main.1f7d43a8.chunk.js.map",
+    "main.js": "/Combatly-Web/static/js/main.4f489b36.chunk.js",
+    "main.js.map": "/Combatly-Web/static/js/main.4f489b36.chunk.js.map",
     "runtime-main.js": "/Combatly-Web/static/js/runtime-main.9a60cdb5.js",
     "runtime-main.js.map": "/Combatly-Web/static/js/runtime-main.9a60cdb5.js.map",
-    "static/js/2.fd21da26.chunk.js": "/Combatly-Web/static/js/2.fd21da26.chunk.js",
-    "static/js/2.fd21da26.chunk.js.map": "/Combatly-Web/static/js/2.fd21da26.chunk.js.map",
+    "static/js/2.eb3ccd75.chunk.js": "/Combatly-Web/static/js/2.eb3ccd75.chunk.js",
+    "static/js/2.eb3ccd75.chunk.js.map": "/Combatly-Web/static/js/2.eb3ccd75.chunk.js.map",
     "index.html": "/Combatly-Web/index.html",
-    "precache-manifest.8c16f5f3c9ab1c467848e039ae837dd6.js": "/Combatly-Web/precache-manifest.8c16f5f3c9ab1c467848e039ae837dd6.js",
+    "precache-manifest.607ccb343646f9689d062583985719f4.js": "/Combatly-Web/precache-manifest.607ccb343646f9689d062583985719f4.js",
     "service-worker.js": "/Combatly-Web/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Combatly-Web/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.fd21da26.chunk.js.LICENSE.txt": "/Combatly-Web/static/js/2.fd21da26.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Combatly-Web/static/media/logo.5d5d9eef.svg"
+    "static/js/2.eb3ccd75.chunk.js.LICENSE.txt": "/Combatly-Web/static/js/2.eb3ccd75.chunk.js.LICENSE.txt",
+    "static/media/Map.jpg": "/Combatly-Web/static/media/Map.4df2c236.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9a60cdb5.js",
-    "static/js/2.fd21da26.chunk.js",
+    "static/js/2.eb3ccd75.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1f7d43a8.chunk.js"
+    "static/js/main.4f489b36.chunk.js"
   ]
 }
