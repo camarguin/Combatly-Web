@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "878d26353236bc84f444a6ea98e45740",
+    "revision": "689d8faf0630148a387ec6125a242626",
     "url": "/Combatly-Web/index.html"
   },
   {
