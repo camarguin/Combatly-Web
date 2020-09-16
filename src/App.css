@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+/* my code */
+
+.videoBackground {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  z-index: -1;
+  top: 0;
+  object-fit: cover;
+  max-height: 100vh;
+}
+
+.startBtn {
+  width: 100px;
+  background-color: rgb(0, 0, 0, 0.7);
+  border-radius: 2em;
+  padding: 9px 45px;
+  text-decoration: none;
+  color: tan;
+  font-size: 1.1em;
+}
+
+.startBtn:hover {
+  background-color: rgb(70, 60, 50, 0.7);
+  color: black;
+}
+
+video::-webkit-media-controls {
+  display: none !important;
+}
+
+video::-webkit-media-controls-enclosure {
+  display: none !important;
+}
+
+video::-webkit-media-controls, video::-moz-media-controls, video::-o-media-controls, video::-ms-media-controls {
+  display: none !important;
+}

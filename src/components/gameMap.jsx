@@ -1,8 +1,10 @@
 import React from 'react';
 
 const gameMap = () => {
+    
     return (
-        <div>
+        <div className="gameMap">
+
             
         </div>
     );

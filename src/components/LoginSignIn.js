@@ -26,7 +26,7 @@ class LoginSignIn extends Component {
 
     render() {
         return (
-            <div>
+            <div className="LoginSignIn">
                 {this.state.isSignedIn ?
                     (
                         <span>
