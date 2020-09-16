@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Combatly-Web/precache-manifest.d38923aa05d316f6929804b77a24b143.js"
+  "/Combatly-Web/precache-manifest.cd1bb627ffbba14ae172a907aa8c913e.js"
 );
 
 self.addEventListener('message', (event) => {
